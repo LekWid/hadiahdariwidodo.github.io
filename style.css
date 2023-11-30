@@ -1,0 +1,26 @@
+.navbar-brand {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-style: oblique;
+  font-weight: lighter;
+}
+.jumbotron {
+  padding-top: 1rem;
+}
+.jumbotron1 {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  padding-right: 2rem;
+}
+.Footer {
+  background-color: #0099ff;
+  font-weight: lighter;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  padding: 5px;
+}
+.rows {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.Gambarpesan {
+  padding-bottom: 1rem;
+}
